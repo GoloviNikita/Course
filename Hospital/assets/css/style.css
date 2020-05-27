@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+
+
+.container{
+    display: block;
+    background: #000;
+    width: 400px;
+    padding: 10px;
+    margin: 0 auto;
+}
